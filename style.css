@@ -58,15 +58,12 @@
   height: 100vh;
   display: none;
 }
+
 footer{
-  position: absolute;
-  bottom: 0%;
-  height: 20px;
-  width: 100%;
   text-align: center;
+  position: fixed;
+  width: 100%;
 
-  color: white;
-  padding-top: 20px;
-  background-color: #0a3e54;
+  background-color: #38bdf8;
+  bottom: 2%;
 }
-
